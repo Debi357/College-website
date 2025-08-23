@@ -6,11 +6,11 @@ It provides details about departments, faculty, courses, and notices, along with
 
 <h2><b>🚀 Features</b></h2>
 
-📑 Homepage with college details and announcements
+📑 Homepage with college details
 
 🏫 Department & faculty information pages
 
-🔐 Student login to check results and academic updates
+🔐 Admin login to make academic updates
 
 📲 Responsive design for mobile and desktop
 
@@ -63,8 +63,6 @@ Access it at http://localhost/college-website
 
 <h2><b>🔮 Future Improvements</b></h2>
 
-Add online admission form
-
-Admin panel for managing notices and results
-
+Add online admission form<br>
+Implement student result checking system with secure login<br>
 Event gallery
