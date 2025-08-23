@@ -44,6 +44,8 @@ Integrated MySQL database for storing results and notices
 📸 Screenshots
 
 (Add screenshots here once you upload the project)
+![Homepage](images/home.png)
+![Login Page](screenshots/login.png)
 
 <h2><b>📦 Installation & Usage</b></h2>
 
