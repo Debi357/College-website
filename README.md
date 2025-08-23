@@ -41,11 +41,12 @@ Built backend logic with PHP
 
 Integrated MySQL database for storing results and notices
 
-📸 Screenshots
+<b><h2>📸 Screenshots</h2></b>
 
-(Add screenshots here once you upload the project)
-![Homepage](images/home.png)
-![Login Page](screenshots/login.png)
+
+![Homepage](images/home.png)<br>
+![Login Page](images/login.png)<br>
+![admin Page](images/admin.png)
 
 <h2><b>📦 Installation & Usage</b></h2>
 
